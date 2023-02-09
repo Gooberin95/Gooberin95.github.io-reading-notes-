@@ -13,3 +13,5 @@ Variables in Javascript and stored values under a name. Example let First = "hel
   5--- Meta data influences SEO by specifying what it hands out to the internet as marketing words and categories when others search for a specific site 
    6 ---- <meta> tag references other meta data related tags within the html document within itself
 *******************************************************************************************************
+ ** The first step in designing a website is defining your goals in the beggining, working backwards from that to how the website will help you get there, then arranging them in order from there.*** 
+   
