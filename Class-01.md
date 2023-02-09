@@ -14,4 +14,6 @@ Variables in Javascript and stored values under a name. Example let First = "hel
    6 ---- <meta> tag references other meta data related tags within the html document within itself
 *******************************************************************************************************
  ** The first step in designing a website is defining your goals in the beggining, working backwards from that to how the website will help you get there, then arranging them in order from there.*** 
+##The most important question to answer when designing a website is does and how does this accomplish my clients needs
++. You should use an <h1> element insted of a <span> element inorder to gain the attributes and customizability that inherently accompanies the <h1> tag over the <span> tag.
    
