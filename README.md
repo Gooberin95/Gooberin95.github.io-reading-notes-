@@ -2,8 +2,7 @@
 # reading-notes, A *website where I post things on what I have learned.*
 ## Code102 - *Intro to Software Development*
 ## Code201 - Foundations of Software Development
-## Code301 - ~~Semi-pro~~ Intermediate Software Development
-<sub>I am Brandon Ruiz and I endorse this message</sub>
+## Code301 - 
+
 ## Code401 - Advanced Software Development
-<sup>**Disclaimer**</sup>
 Test
