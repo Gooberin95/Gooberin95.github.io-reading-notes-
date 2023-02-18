@@ -18,3 +18,4 @@
 3. Benefits of pair programming are 1, to establish a good team relationship with co-workers/team mates and 2, it enables 2 partys to learn from one another in the observation of how each party thinks and processes problems in scripts
 ### Things I want to know more about
 * I would like to know what the hardest category of coding is within software development, AI, Firmware, Webdevelopment, API's? Maybe this question is nonsensical
+#### Testing my git pull inorder to get better at utilizing git and github.
