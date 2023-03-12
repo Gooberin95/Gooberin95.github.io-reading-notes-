@@ -6,4 +6,5 @@
 * The JavaScript debugger tool is in the browser and helps you identify which problems are occuring in your code and where, it preety much acts as a TA! in that it will show you where your spelling is wrong or where variable scopes are incorrect ect.
 *A breakpoint is a marker you set in the debugger tool that pauses code execution at which ever point you set it to. 
 * The call stack is a part of the debugger that shows you which code was executed upto the breakpoint.
-
+### Things I want to know more about
+I would like to know what language is used in replacment of javascript, the debugger and inspect tools in browsers seem to always show javascript related information.
