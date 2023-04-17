@@ -5,3 +5,5 @@
 2. Props are used to transfer data between Components
 3. Props flow one direction from parent to child
 
+## Things I want to know more about
+* At the moment I am curious how indemand React is in the job market or on resume
